@@ -1,5 +1,3 @@
-# Módulo 3 - Trilha HTML
-
 # 🔴⚫ Página Estilo Wikipedia – Clube de Regatas do Flamengo
 
 Este projeto foi desenvolvido como parte do bootcamp da DIO, com o objetivo de praticar HTML5, CSS3, semântica, acessibilidade e estrutura de conteúdo em uma única página inspirada no estilo da Wikipedia.
@@ -33,7 +31,10 @@ Aplicar os conceitos de desenvolvimento web semântico e acessível, criando uma
 
 ## 🚀 Deploy
 
-Este projeto pode ser publicado no GitHub Pages para visualização online. Exemplo:
+Este projeto pode ser publicado no GitHub Pages para visualização online. Exemplo: 
+
+https://marciogil.github.io/trilha-html-modulo-3/
+
 
 
 ## Links úteis
